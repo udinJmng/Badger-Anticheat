@@ -1,5 +1,5 @@
 -- Server Config:
-webhookURL = ''
+webhookURL = 'https://discord.com/api/webhooks/958695203659718708/uXx8maTiYNOC2-djLKfd7Rk-H3OsvSHk-SJnx6xrup5VocqR67tPXMGceaQ4YFPCx1l2'
 
 
 -- CODE [DO NOT TOUCH]:
